@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Neural Networks, Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SRAbhinay](https://github.com/SRAbhinay)
+- 👨‍💻 All of my projects are available at [github](https://github.com/SRAbhinay)
 
 - 💬 Ask me about **ML**
 
 - 📫 How to reach me **sirigineediraj.abhinay@vitstudent.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11f8bwTUlHb0SkJtuwr0pCJdN2CLbOrtU/view?usp=sharing](https://drive.google.com/file/d/11f8bwTUlHb0SkJtuwr0pCJdN2CLbOrtU/view?usp=sharing)
+- 📄 Know about my experiences see [drive](https://drive.google.com/file/d/11f8bwTUlHb0SkJtuwr0pCJdN2CLbOrtU/view?usp=sharing)
 
 - ⚡ Fun fact **I am good with GK**
 
