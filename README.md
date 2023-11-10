@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinay</h1>
 <h3 align="center">A passionate ML geek from India</h3>
 
-- 🔭 I’m currently working on [Vehicle Counter](https://github.com/smartinternz02/SI-GuidedProject-600763-1697471176)
-
 - 🌱 I’m currently learning **Neural Networks, Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SRAbhinay](https://github.com/SRAbhinay)
