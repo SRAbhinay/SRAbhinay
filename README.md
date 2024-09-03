@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinay</h1>
 <h3 align="center">A passionate ML geek from India</h3>
 
-- 🌱 I’m currently learning **Neural Networks, Web Dev**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/SRAbhinay)
 
